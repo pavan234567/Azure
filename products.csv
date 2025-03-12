@@ -1,0 +1,11 @@
+ProductID,ProductName,Category,Price
+501,Laptop,Electronics,943
+502,Tablet,Electronics,71
+503,Phone,Electronics,443
+504,Monitor,Accessories,971
+505,Keyboard,Accessories,164
+506,Mouse,Electronics,722
+507,Printer,Electronics,457
+508,Router,Electronics,128
+509,Speaker,Accessories,876
+510,Camera,Accessories,803
