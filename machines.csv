@@ -1,0 +1,11 @@
+MachineID,MachineType,Status
+801,Excavator,Operational
+802,Crane,Under Maintenance
+803,Bulldozer,Under Maintenance
+804,Loader,Under Maintenance
+805,Forklift,Out of Service
+806,Drill,Operational
+807,Compactor,Under Maintenance
+808,Grader,Out of Service
+809,Backhoe,Out of Service
+810,Dump Truck,Out of Service
