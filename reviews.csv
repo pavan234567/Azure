@@ -1,0 +1,11 @@
+ReviewID,ProductID,Rating,Comment
+1001,101,5,Great!
+1002,102,5,Average
+1003,103,4,Poor
+1004,104,2,Excellent
+1005,105,4,Good
+1006,106,4,Not bad
+1007,107,4,Could be better
+1008,108,4,Awesome
+1009,109,2,Fair
+1010,110,2,Nice
